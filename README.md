@@ -82,4 +82,4 @@ Keep it open while coding. It’s lightweight, unobtrusive, and secretly judges 
 Pull requests are welcome! Big changes? Open an issue first so we can brainstorm together.  
 
 ---
-MIT License — you can do almost anything with it. Just don’t sue me if your boss notices you took a 4-hour nap. 😉  
+MEEE License — you can do almost anything with it. Just don’t sue me if your boss notices you took a 4-hour nap. 😉  
